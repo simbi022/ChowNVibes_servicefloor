@@ -1,0 +1,6 @@
+/* Legacy scaffold styles intentionally reduced to a small, shared interaction layer.
+   The ordering surfaces are styled from index.css and the existing components. */
+.counter:focus-visible {
+  outline: 2px solid var(--saffron-soft);
+  outline-offset: 2px;
+}
